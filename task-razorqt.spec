@@ -1,6 +1,6 @@
 Name:		task-razorqt
 Version:	1
-Release:	2
+Release:	3
 Summary:	Metapackage for razor-qt
 Group:		Graphical desktop/Other
 License:	GPL
