@@ -4,7 +4,7 @@ Release:	7
 Summary:	Metapackage for razor-qt
 Group:		Graphical desktop/Other
 License:	GPL
-URL:		http://razor-qt.org
+URL:		https://razor-qt.org
 Requires:	desktop-common-data
 Requires:	razorqt-desktop
 Requires:	razorqt-appswitcher
